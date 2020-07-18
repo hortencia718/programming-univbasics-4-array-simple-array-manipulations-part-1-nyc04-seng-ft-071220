@@ -7,7 +7,7 @@ end
  end
 
  def using_pop(array)
-   array.pop(-4)
+   array.pop()
 end
 
 
